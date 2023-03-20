@@ -18,4 +18,4 @@ Tecnologias que eu uso em dia
 </div>
 
 
-![snake gif](https://github.com/JoaoPauloRocon/JoaoPauloRocon/blob/output/github-contribution-grid-snake.svg)
+
